@@ -4,7 +4,7 @@ Now that my daycamp is growing, I would like to create a database to help me kee
 
 I am asking for database table scripts to implement this database table.
 ## Spec
-The full spec is included in the repo in the file called spec.txt.
+The full spec is included in the repo in the file called spec.sql.
 ## Deliverables
 The following files are required to implement this. The info needed is in the spec. 
 1. Database.sql
