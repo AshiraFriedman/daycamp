@@ -35,6 +35,6 @@ from Camper c
 group by c.Half
 
 --5) Show me a list of campers with allergies and add the word (warning!) to their last name, ex. Steinman (warning!). 
-select c.FirstName, LastName = concat(c.LastName, ' warning!'), c.Allergies
+select c.FirstName, LastName = concat(c.LastName, ' (warning!)'), c.Allergies
 from Camper c
 where c.Allergies is not null

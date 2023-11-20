@@ -15,6 +15,6 @@ union select 'Shaindy', 'Bauman', 1, 'Beis Rochel', 2168901234, 7324356759, null
 union select 'Rivka', 'Katz', 2, 'Beis Leah', 2163845829, 2165093968, null, null, 'second', 1, 1
 union select 'Avigayil', 'Steinman', 2, 'Beis Sarah', 2164931984, 8482842339, 'dairy', null, 'both', 0, 1
 union select 'Rochel', 'Berman', 2, 'Beis Sarah', 2162081945, 2163058293, null, 'Sarah Baum', 'both', 0, 1
-union select 'Chana', 'Braun', 1,' Beis Sarah', 2169852492, 7322038038, null, null, 'both', 1, 1
+union select 'Chana', 'Braun', 1,'Beis Sarah', 2169852492, 7322038038, null, null, 'both', 1, 1
 union select 'Leah', 'Gross', 1, 'Beis Rivka', 2161357900, 2168642020, null, null, 'both', 0, 1
 union select 'Yocheved', 'Bernstein', 2, 'Beis Rochel', 2168027034, 2483841049, null, null, 'both', 0, 1
